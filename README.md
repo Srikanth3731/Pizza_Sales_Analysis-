@@ -31,4 +31,6 @@ The objective of this project is to perform in-depth sales analysis for a pizza 
 - Used DAX to create dynamic measures and visual insights
 - Delivered a business-ready report for sales performance and decision-making
 
+## Dashboard
+https://github.com/Srikanth3731/Pizza_Sales_Analysis-/blob/main/Screenshot_2025_0422_010044.png
   
