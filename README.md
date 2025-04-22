@@ -33,4 +33,12 @@ The objective of this project is to perform in-depth sales analysis for a pizza 
 
 ## Dashboard
 https://github.com/Srikanth3731/Pizza_Sales_Analysis-/blob/main/Screenshot_2025_0422_010044.png
+
+## Project Insights 
+- Classic category and Large-sized pizzas contribute the highest to overall sales.
+- The Thai Chicken pizza generates the most revenue, while The Brie Carre pizza is the lowest seller.
+- Fridays and weekends have the highest order volumes, indicating peak business times.
+- July and January are the top-performing months in terms of total orders.
+- Average order contains about 2.32 pizzas, suggesting frequent group or family orders.
+- Majority of sales come from just a few top-performing pizzas, showing a strong product preference trend.
   
