@@ -18,3 +18,17 @@ The objective of this project is to perform in-depth sales analysis for a pizza 
 - Which are the bottom 5 pizzas by quantity sold?
 
 - Dashboard Interaction <a href="https://github.com/Srikanth3731/Pizza_Sales_Analysis-/blob/main/Screenshot_2025_0422_010044.png">View Dashboard<a/>
+
+## Process 
+- Imported pizza sales dataset into SQL Server
+- Performed data cleaning and preprocessing using SQL
+- Created KPIs: total revenue, average order value, total orders, total pizzas sold, etc.
+- Analyzed sales trends by day of week and month
+- Identified best and worst-performing pizzas by revenue, quantity, and orders
+- Calculated % sales by pizza category and size using SQL queries
+- Imported cleaned data into Power BI for visualization
+- Designed an interactive dashboard with slicers for category and date
+- Used DAX to create dynamic measures and visual insights
+- Delivered a business-ready report for sales performance and decision-making
+
+  
