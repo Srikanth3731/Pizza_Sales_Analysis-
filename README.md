@@ -16,3 +16,5 @@ The objective of this project is to perform in-depth sales analysis for a pizza 
 - Which are the top 5 pizzas by total orders?
 - Which are the bottom 5 pizzas by revenue?
 - Which are the bottom 5 pizzas by quantity sold?
+
+- Dashboard Interaction <a href="https://github.com/Srikanth3731/Pizza_Sales_Analysis-/blob/main/Screenshot_2025_0422_010044.png">View Dashboard<a/>
