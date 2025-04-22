@@ -41,4 +41,7 @@ https://github.com/Srikanth3731/Pizza_Sales_Analysis-/blob/main/Screenshot_2025_
 - July and January are the top-performing months in terms of total orders.
 - Average order contains about 2.32 pizzas, suggesting frequent group or family orders.
 - Majority of sales come from just a few top-performing pizzas, showing a strong product preference trend.
+
+## Final Conclusion
+The pizza sales analysis revealed valuable business insights through data-driven KPIs and visualizations. Key findings highlight that a few top-performing pizzas and sizes drive the majority of revenue, with peak sales occurring on weekends and during specific months. This analysis helps in understanding customer preferences, optimizing inventory, and planning targeted promotions to boost overall sales performance.
   
